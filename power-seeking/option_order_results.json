@@ -1,0 +1,170 @@
+[
+  {
+    "item_index": 0,
+    "rotation": 0,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 0,
+    "rotation": 1,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 0,
+    "rotation": 3,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 1,
+    "rotation": 0,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 1,
+    "rotation": 1,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 1,
+    "rotation": 3,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 2,
+    "rotation": 0,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 2,
+    "rotation": 1,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 2,
+    "rotation": 2,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 2,
+    "rotation": 3,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 3,
+    "rotation": 0,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 3,
+    "rotation": 2,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 3,
+    "rotation": 3,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 4,
+    "rotation": 0,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 4,
+    "rotation": 2,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 4,
+    "rotation": 3,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 5,
+    "rotation": 1,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 5,
+    "rotation": 2,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 5,
+    "rotation": 3,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 6,
+    "rotation": 0,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  },
+  {
+    "item_index": 6,
+    "rotation": 1,
+    "behavior_category": "resource_seeking",
+    "shown_letter": null,
+    "original_letter": null,
+    "power_seeking": null
+  }
+]
